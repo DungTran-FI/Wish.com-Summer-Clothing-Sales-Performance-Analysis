@@ -1,5 +1,7 @@
 # Wish.com Summer Clothing Sales Performance Analysis
 
+The complete report is available here: [Wish.com - Business Report](https://github.com/DungTran-FI/Wish.com-Summer-Clothing-Sales-Performance-Analysis/blob/main/Wish.com%20-%20Business%20Report.pdf)
+
 ## Overview
 
 This project delivers an in-depth analysis of Wish.com’s summer clothing sales performance for August 2020, leveraging **data visualizations created with Power BI**. The analysis covers various aspects, including product and merchant ratings, sales revenue, and the effectiveness of promotional features like badges and ad boosts. The insights derived from this analysis can be instrumental for e-commerce businesses in understanding consumer behavior, optimizing product offerings, and improving marketing strategies.
