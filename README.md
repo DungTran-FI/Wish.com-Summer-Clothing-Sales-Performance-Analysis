@@ -1,6 +1,9 @@
 # Wish.com Summer Clothing Sales Performance Analysis
 
-The complete report is available here: [Wish.com - Business Report](https://github.com/DungTran-FI/Wish.com-Summer-Clothing-Sales-Performance-Analysis/blob/main/Wish.com%20-%20Business%20Report.pdf)
+The complete report is available here: 
+- [Wish.com - Business Report](https://github.com/DungTran-FI/Wish.com-Summer-Clothing-Sales-Performance-Analysis/blob/main/Wish.com%20-%20Business%20Report.pdf)
+- PowerBI version: [Wish.com - PowerBI Business Report.pbix](https://github.com/DungTran-FI/Wish.com-Summer-Clothing-Sales-Performance-Analysis/raw/main/Wish.com%20-%20PowerBI%20Business%20Report.pbix)
+- Report Highlights (Only Data Visualization): [Wish.com - Report Highlights.pdf](https://github.com/DungTran-FI/Wish.com-Summer-Clothing-Sales-Performance-Analysis/blob/main/Wish.com%20-%20Report%20Highlights.pdf)
 
 ## Overview
 
